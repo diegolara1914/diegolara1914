@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/92b1e786-44da-4f52-90e9-0d49e03eb0fb" width="100%" alt="Diego Lara - Estrategista Digital">
+<img width="1080" height="1920" alt="Sem Título-1" src="https://github.com/user-attachments/assets/88249029-7971-47db-ba0c-87e5e1ed5a3a" />
 </div>
 
 # Olá, eu sou o Diego! 🚀
