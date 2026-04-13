@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/92b1e786-44da-4f52-90e9-0d49e03eb0fb" width="100%" alt="Diego Lara - Estrategista Digital">
+</div>
+
 # Olá, eu sou o Diego! 🚀
 
 ### Estrategista Digital | Copywriter | Creative Professional
